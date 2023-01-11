@@ -1,2 +1,2 @@
 # cursopoouber
-Curso de Programación orientada a objetos con proyecto de Uber.
+Curso de Programación Orientada a Objetos con proyecto de Uber.
